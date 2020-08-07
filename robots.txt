@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://calcado-teste.surge.sh/sitemap.xml
+Host: https://calcado-teste.surge.sh
